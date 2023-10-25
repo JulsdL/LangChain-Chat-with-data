@@ -1,0 +1,10 @@
+openai
+langchain
+pypdf
+yt_dlp
+pydub
+ffmpeg
+ffprobe
+pydu
+python-dotenv
+beautifulsoup4
