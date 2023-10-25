@@ -8,3 +8,4 @@ ffprobe
 pydu
 python-dotenv
 beautifulsoup4
+tiktoken
